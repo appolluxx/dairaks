@@ -1,0 +1,9 @@
+{
+  "name": "SaveRaks",
+  "description": "A smart sustainable mindset PWA for tracking eco-activities, recycling, and community reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
